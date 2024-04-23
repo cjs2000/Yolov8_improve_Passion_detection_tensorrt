@@ -1,0 +1,3 @@
+/home/jetson/Desktop/tensorrt-yolov8/build/CMakeFiles/yolov8_detect.dir
+/home/jetson/Desktop/tensorrt-yolov8/build/CMakeFiles/edit_cache.dir
+/home/jetson/Desktop/tensorrt-yolov8/build/CMakeFiles/rebuild_cache.dir

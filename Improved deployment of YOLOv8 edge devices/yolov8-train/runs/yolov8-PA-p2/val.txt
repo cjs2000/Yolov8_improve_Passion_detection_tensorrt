@@ -1,0 +1,8 @@
+F:\software\anaconda\envs\C_v8\python.exe F:\software\anaconda\envs\C_v8\Lib\site-packages\ultralytics\val.py
+Ultralytics YOLOv8.1.42 🚀 Python-3.9.19 torch-2.2.2+cu121 CUDA:0 (NVIDIA GeForce RTX 4090, 24564MiB)
+YOLOv8-PA-p2 summary: 273 layers, 2869596 parameters, 0 gradients, 11.6 GFLOPs
+val: Scanning C:\data\data1\test\labels.cache... 546 images, 0 backgrounds, 0 corrupt: 100%|██████████| 546/546 [00:00<?, ?it/s]
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100%|██████████| 546/546 [00:09<00:00, 59.31it/s]
+                   all        546       2400      0.932      0.855      0.914       0.79
+Speed: 0.6ms preprocess, 6.7ms inference, 0.0ms loss, 1.4ms postprocess per image
+Results saved to runs\detect\val8
