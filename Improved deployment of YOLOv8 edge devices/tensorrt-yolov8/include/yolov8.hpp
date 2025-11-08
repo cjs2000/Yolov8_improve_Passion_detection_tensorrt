@@ -1,6 +1,3 @@
-//
-// Created by ubuntu on 3/16/23.
-//
 #ifndef JETSON_DETECT_YOLOV8_HPP
 #define JETSON_DETECT_YOLOV8_HPP
 #include "fstream"
