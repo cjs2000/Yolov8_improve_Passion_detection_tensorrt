@@ -1,5 +1,4 @@
 //
-// Created by ubuntu on 1/20/23.
 //
 #include "chrono"
 #include "include/yolov8.hpp"
